@@ -1,0 +1,5 @@
+## Interface: 120100
+## Title: Quest To Speech
+## Notes: Vocied quests for WoW
+## Version: 0.1.1
+## Author: RivalFox
